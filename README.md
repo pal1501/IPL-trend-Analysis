@@ -1,10 +1,10 @@
-# 🏏 IPL Data Analysis & Interactive Dashboards (Power BI + Python)
+# IPL Data Analysis & Interactive Dashboards (Power BI + Python)
 
 This project aims to analyze Indian Premier League (IPL) datasets to extract meaningful insights and present them using interactive dashboards. By leveraging tools like **Power BI**, **Python**, and libraries such as **Pandas**, **Matplotlib**, and **Seaborn**, we uncover trends in team performances, player statistics, venues, and match outcomes.
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 - Analyze IPL data to derive team, player, and venue performance insights.
 - Visualize key metrics like wins/losses, toss decisions, venues, and playoff trends.
@@ -13,7 +13,7 @@ This project aims to analyze Indian Premier League (IPL) datasets to extract mea
 
 ---
 
-## 🗂️ Dataset Details
+## 🗂Dataset Details
 
 1. **cleaned_dataset_ipl.xlsx**  
    - Contains match-level data including teams, venues, toss, and results.
@@ -22,7 +22,7 @@ This project aims to analyze Indian Premier League (IPL) datasets to extract mea
 
 ---
 
-## 📌 Dashboards Created
+## Dashboards Created
 
 ### 1. IPL Overview Dashboard
 - Total Matches, Seasons, and Teams (KPI Cards)
@@ -50,7 +50,7 @@ This project aims to analyze Indian Premier League (IPL) datasets to extract mea
 
 ---
 
-## 🧪 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Power BI**: For creating dynamic dashboards and visual storytelling
 - **Python**: Data cleaning and preparation
