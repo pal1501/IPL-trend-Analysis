@@ -13,7 +13,7 @@ This project aims to analyze Indian Premier League (IPL) datasets to extract mea
 
 ---
 
-## 🗂Dataset Details
+## Dataset Details
 
 1. **cleaned_dataset_ipl.xlsx**  
    - Contains match-level data including teams, venues, toss, and results.
