@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Power Bi files
+*.pbix
+*.pbip
+
 # C extensions
 *.so
 
